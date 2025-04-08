@@ -2,35 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/posts/brecht-bertolt--publictionnaire/</loc>
+    <lastmod>2025-04-08T21:18:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/clippings/</loc>
+    <lastmod>2025-04-08T21:18:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-04-08T21:18:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-04-08T21:18:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-04-08T21:18:01+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/football/</loc>
+    <loc>http://localhost:1313/tags/football/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/l%C3%A9gislatives/</loc>
+    <loc>http://localhost:1313/tags/l%C3%A9gislatives/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/mon-premier-article/</loc>
+    <loc>http://localhost:1313/posts/mon-premier-article/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>http://localhost:1313/categories/politique/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/politique/</loc>
+    <loc>http://localhost:1313/categories/sport/</loc>
     <lastmod>2025-04-08T19:18:01+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-04-08T19:18:01+02:00</lastmod>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://example.org/categories/sport/</loc>
-    <lastmod>2025-04-08T19:18:01+02:00</lastmod>
-  </url><url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2025-04-08T19:18:01+02:00</lastmod>
-  </url><url>
-    <loc>https://example.org/archives/</loc>
-  </url><url>
-    <loc>https://example.org/search/</loc>
+    <loc>http://localhost:1313/search/</loc>
   </url>
 </urlset>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Clippings on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/clippings/</link>
+    <description>Recent content in Clippings on My New Hugo Site</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Apr 2025 21:18:01 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/clippings/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Brecht (Bertolt) – Publictionnaire</title>
       <link>http://localhost:1313/posts/brecht-bertolt--publictionnaire/</link>
@@ -15,15 +15,6 @@
       <guid>http://localhost:1313/posts/brecht-bertolt--publictionnaire/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Rendre le spectateur actif au théâtre et ailleurs&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Aborder l’œuvre dramatique de Bertolt Brecht (1898-1956) sous l’angle du public, c’est pointer le cœur même de son projet de réforme du théâtre que le fameux effet de « distanciation » (&lt;em&gt;Verfremdungseffekt&lt;/em&gt;) auquel on l’associe volontiers ne restitue que très partiellement. Ce dernier en effet n’apparaît qu’en 1938 alors que B. Brecht, en exil au Danemark depuis 1933, et privé de scène comme de public, réfléchit à ce que pourrait être une écriture dramatique définitivement débarrassée des bases de l’illusion, de l’identification et de l’hypnose, sources de tant de ravages dans le quotidien national-socialiste. Ce faisant, il réactive une proposition développée depuis ses débuts, mais systématisée, à la fin des années 1920, dans le théâtre épique, puis didactique, la volonté en effet, dans la double mission assignée à la poésie depuis Horace (65-8 av. J.-C.), d’arrimer le divertissement (&lt;em&gt;delectare&lt;/em&gt;) à l’enseignement (&lt;em&gt;prodesse&lt;/em&gt;), autrement dit de faire de l’apprentissage et du savoir une source de plaisir et de divertissement.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mon Premier Article</title>
-      <link>http://localhost:1313/posts/mon-premier-article/</link>
-      <pubDate>Tue, 08 Apr 2025 19:18:01 +0200</pubDate>
-      <guid>http://localhost:1313/posts/mon-premier-article/</guid>
-      <description>&lt;h2 id=&#34;lorem-ipsum&#34;&gt;Lorem Ipsum&lt;/h2&gt;
-&lt;h3 id=&#34;section-11032-du-de-finibus-bonorum-et-malorum-de-ciceron-45-av-j-c&#34;&gt;Section 1.10.32 du &amp;ldquo;De Finibus Bonorum et Malorum&amp;rdquo; de Ciceron (45 av. J.-C.)&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&amp;quot;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

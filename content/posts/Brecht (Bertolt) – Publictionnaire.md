@@ -3,11 +3,11 @@ title: "Brecht (Bertolt) – Publictionnaire"
 source: "https://publictionnaire.huma-num.fr/notice/brecht-bertolt/"
 author:
   - "[[DG Communication]]"
-published:
-created: 2025-03-15
+date: '2025-04-08T21:18:01+02:00'
 description:
 tags:
   - "clippings"
+draft: true
 ---
 **Rendre le spectateur actif au théâtre et ailleurs**
 
