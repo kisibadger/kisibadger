@@ -66,7 +66,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://kisibadger.github.io/" \
+            --baseURL "https://ksbadger.github.io/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache Save
         id: cache-save
@@ -84,7 +84,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: "https://kisibadger.github.io/"
+      url: "https://ksbadger.github.io/"
     runs-on: ubuntu-latest
     needs: build
     steps:
